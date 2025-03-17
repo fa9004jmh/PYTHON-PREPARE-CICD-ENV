@@ -1,2 +1,2 @@
 # PYTHON-PREPARE-CICD-ENV
-test of 10 app pipeline
+test of 5 app pipeline in kubernetes/minikube
